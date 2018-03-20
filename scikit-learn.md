@@ -1,4 +1,4 @@
-﻿machine-learning, scikit-learn
+﻿ machine-learning, scikit-learn
 scikit-learn을 활용한 기계 학습(2014년 7월 마이크로소프트)
 iris, pca
 
